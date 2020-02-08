@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Welcome. I'm Anthony Nguyen (surname pronounced as 'win' or 'new + win'). I am an Applied Mathematics PhD at University of California, Davis in my penultimate year. Currently, I am working with Krishna on Stochastic Optimization. 
+
+I am interested ...
+
+Feel free to contact me at my email antngu [at] ucdavis [dot] edu. 
 
